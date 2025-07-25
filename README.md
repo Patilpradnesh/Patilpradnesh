@@ -16,11 +16,11 @@
 ---
 
 ### 🧑‍💻 About Me
-- 🎓 3rd Year Computer Science Student  
-- 💻 Passionate Backend Developer  
+- 🎓 Final Year Computer Science Student  
+- 💻 Passionate Full Stack Developer  
 - 🚀 Building projects using **JavaScript, Node.js, MongoDB, Express.js**  
 - 🌱 Learning Web Security, Cloud, and System Design  
-- 🌐 Exploring Open Source & DevOps  
+- 🌐 Exploring Open Source & AIML  
 
 ---
 
