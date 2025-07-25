@@ -9,25 +9,85 @@
 
 ---
 
-### 🛠️ Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=node.js)
-...
+<p align="center">
+  <img src="https://github.com/Prajwal7842/Prajwal7842/blob/main/Assets/3Dcoder.gif" width="300" />
+</p>
 
 ---
 
-### 🔥 GitHub Stats
+### 🧑‍💻 About Me
+- 🎓 3rd Year Computer Science Student  
+- 💻 Passionate Backend Developer  
+- 🚀 Building projects using **JavaScript, Node.js, MongoDB, Express.js**  
+- 🌱 Learning Web Security, Cloud, and System Design  
+- 🌐 Exploring Open Source & DevOps  
+
+---
+
+### 🛠️ Tech Stack
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Patilpradnesh&show_icons=true&theme=tokyonight">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,github,git,vscode,postman" />
+</p>
+
+---
+
+### 🧠 3D Model & Avatar
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212738986-fb70f08e-3514-4718-87b2-c0e8d53cbb3c.gif" width="300"/>
+</p>
+
+<p align="center">
+  <a href="https://skyline.github.com/Patilpradnesh/2024">
+    <img src="https://github.com/Patilpradnesh/Patilpradnesh/raw/main/assets/github-skyline.gif" width="60%" />
+  </a>
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Patilpradnesh&show_icons=true&theme=tokyonight&border_radius=15" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Patilpradnesh&theme=tokyonight&border_radius=15" width="48%" />
 </p>
 
 ---
 
 ### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Patilpradnesh&theme=matrix&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Patilpradnesh&theme=matrix&no-bg=true&margin-w=10" />
+</p>
+
+---
+
+### ⌨️ Typing Developer SVG
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=00FFEA&center=true&vCenter=true&width=450&lines=Backend+Developer+from+India;JavaScript+%7C+Node.js+%7C+MongoDB;Let's+build+something+awesome!" />
+</p>
 
 ---
 
 ### 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/pradnesh-patil-013869265)
 
+<p align="center">
+  <a href="https://linkedin.com/in/pradnesh-patil-013869265">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:youremail@example.com">
+    <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Patilpradnesh">
+    <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🚀 Visitor Counter
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Patilpradnesh&label=Profile%20views&color=0e75b6&style=flat" alt="Patilpradnesh" />
+</p>
