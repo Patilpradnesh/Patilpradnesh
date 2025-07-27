@@ -63,8 +63,6 @@
 
 ---
 
-### ⌨️ Typing Developer SVG
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=00FFEA&center=true&vCenter=true&width=450&lines=Backend+Developer+from+India;JavaScript+%7C+Node.js+%7C+MongoDB;Let's+build+something+awesome!" />
 </p>
