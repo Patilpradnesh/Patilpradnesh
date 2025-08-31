@@ -85,6 +85,13 @@
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Shriii19/shriii19/blob/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Shriii19/shriii19/blob/output/github-snake.svg">
+  <img alt="GitHub Snake" src="https://github.com/Patilpradnesh/Patilpradnesh/blob/output/github-snake.svg">
+</picture>
+
+
 ### 🚀 Visitor Counter
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Patilpradnesh&label=Profile%20views&color=0e75b6&style=flat" alt="Patilpradnesh" />
