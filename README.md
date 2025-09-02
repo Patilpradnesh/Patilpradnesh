@@ -3,9 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 </h1>
 
-<p align="center">
-  <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width="50%">
-</p>
+
 <p align ="center">
 <img  src ="https://github.com/Patilpradnesh/Patilpradnesh/blob/main/Patil%20pradnesh.png"  width="95%">
 </p>
