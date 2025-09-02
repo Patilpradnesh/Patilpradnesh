@@ -7,7 +7,7 @@
 <p align ="center">
 <img  src ="https://github.com/Patilpradnesh/Patilpradnesh/blob/main/Patil%20pradnesh.png"  width="95%">
 </p>
----
+
 
 <p align="center">
   <img src="https://github.com/Prajwal7842/Prajwal7842/blob/main/Assets/3Dcoder.gif" width="300" />
