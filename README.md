@@ -32,17 +32,6 @@
 
 ---
 
-### 🧠 3D Model & Avatar
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212738986-fb70f08e-3514-4718-87b2-c0e8d53cbb3c.gif" width="300"/>
-</p>
-
-<p align="center">
-  <a href="https://skyline.github.com/Patilpradnesh/2024">
-    <img src="https://github.com/Patilpradnesh/Patilpradnesh/raw/main/assets/github-skyline.gif" width="60%" />
-  </a>
-</p>
 
 ---
 
